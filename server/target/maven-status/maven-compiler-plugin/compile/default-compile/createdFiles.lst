@@ -1,0 +1,3 @@
+com\campus\events\servlet\EventServlet.class
+com\campus\events\model\Event.class
+com\campus\events\repository\EventRepository.class

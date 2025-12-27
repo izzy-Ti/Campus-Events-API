@@ -1,0 +1,8 @@
+target/
+.maven/
+*.class
+.settings/
+.project
+.classpath
+.factorypath
+*.log
